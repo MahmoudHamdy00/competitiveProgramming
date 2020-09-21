@@ -1,2 +1,3 @@
-# Competitive_Programming
-The repository contains the Programming Files and Solution to the problems 
+# competitiveProgramming
+This repository contains source codes for some of the problems I solved in online judges.
+
